@@ -23,35 +23,35 @@ To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-## Installation
-# Step 1: Clone the Repository
+# Installation
+## Step 1: Clone the Repository
 ```git clone https://github.com/MOHAN1665/Object-Detection-Web-App.git
   cd Object-Detection-Web-App
 ```
 
-# Step 2: Install Dependencies
+## Step 2: Install Dependencies
 Create and activate a virtual environment, then install the required Python packages:
-# Create virtual environment
+## Create virtual environment
 ```python -m venv env
 ```
-# Activate the environment
-# On Windows
+## Activate the environment
+## On Windows
 ```env\Scripts\activate
 ```
-# On MacOS/Linux
+## On MacOS/Linux
 ```source env/bin/activate
 ```
-# Install dependencies
+## Install dependencies
 ```pip install -r requirements.txt
 ```
 
-# Step 3: Set YOLOv5 Weights
+## Step 3: Set YOLOv5 Weights
 Download the trained YOLOv5 weights file (best.pt) from your training or source, and place it in the runs/detect/train5/weights/ directory. If the path is different, make sure to update the weights_path in the code accordingly.
 
-# Step 4: Run the Streamlit App
+## Step 4: Run the Streamlit App
 To start the app, use the following command:
 
-# Step 4: Run the Streamlit App
+## Step 4: Run the Streamlit App
 To start the app, use the following command:
 
 ```streamlit run app.py
