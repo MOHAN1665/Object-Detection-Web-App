@@ -3,6 +3,13 @@
 ## Overview
 The **YOLOv5 Object Detection Web App** is a web application built with Streamlit that uses the YOLOv5 model for object detection tasks. The app allows users to upload an image, performs object detection using a pre-trained YOLOv5 model, and displays the predicted class names and their confidence scores. It also draws bounding boxes around the detected objects in the image.
 
+## Deployed Version
+
+You can try the live version of the app on Hugging Face Spaces here:
+
+[YOLOv5 Object Detection Web App on Hugging Face](https://huggingface.co/spaces/Cyherix/Object-Detector-Stream)
+
+
 ## Features
 - Upload an image to perform object detection using YOLOv5.
 - Displays bounding boxes around the detected objects.
