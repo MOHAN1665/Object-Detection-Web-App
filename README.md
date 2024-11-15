@@ -22,12 +22,11 @@ To install all dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 Installation
 Step 1: Clone the Repository
-git clone https://github.com/your-username/yolov5-object-detection-web-app.git
-cd yolov5-object-detection-web-app
+git clone https://github.com/MOHAN1665/Object-Detection-Web-App.git
+cd Object-Detection-Web-App
 
 
 Step 2: Install Dependencies
