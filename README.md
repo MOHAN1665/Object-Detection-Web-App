@@ -44,11 +44,11 @@ Create and activate a virtual environment, then install the required Python pack
     python -m venv env
 ```
 ## Activate the environment
-## On Windows
+### On Windows
 ```
     env\Scripts\activate
 ```
-## On MacOS/Linux
+### On MacOS/Linux
 ```
     source env/bin/activate
 ```
