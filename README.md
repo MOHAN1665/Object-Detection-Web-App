@@ -65,10 +65,10 @@ To start the app, use the following command:
 This will open the app in your default web browser.
 
 # Usage
--**Upload Image**: Click the "Upload Image" button to upload an image (JPEG, PNG, or JPG format).
-**Object Detection**: The app processes the image and detects objects using the YOLOv5 model.
-**Bounding Boxes & Predictions**: The app will display bounding boxes around detected objects and show the predicted class names with confidence scores.
-**Metrics**: The app also displays Precision, Recall, and F1-Score metrics for the detected classes.
+- **Upload Image**: Click the "Upload Image" button to upload an image (JPEG, PNG, or JPG format).
+- **Object Detection**: The app processes the image and detects objects using the YOLOv5 model.
+- **Bounding Boxes & Predictions**: The app will display bounding boxes around detected objects and show the predicted class names with confidence scores.
+- **Metrics**: The app also displays Precision, Recall, and F1-Score metrics for the detected classes.
 
 # Example Output
 Once an image is uploaded, the web app will display:
