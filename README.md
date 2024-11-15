@@ -64,7 +64,7 @@ To start the app, use the following command:
 ```
 This will open the app in your default web browser.
 
-#Usage
+# Usage
 **Upload Image**: Click the "Upload Image" button to upload an image (JPEG, PNG, or JPG format).
 **Object Detection**: The app processes the image and detects objects using the YOLOv5 model.
 **Bounding Boxes & Predictions**: The app will display bounding boxes around detected objects and show the predicted class names with confidence scores.
@@ -96,10 +96,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # Note:
 Ensure you have the best.pt model weights available in the correct directory for detection to work.
-
-### Instructions for Uploading:
-1. Copy the above content into a new file named `README.md`.
-2. Place this `README.md` file in the root directory of your GitHub repository.
-3. Push the changes to GitHub.
-
-Let me know if you need further changes!
