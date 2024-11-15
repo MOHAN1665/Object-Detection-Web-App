@@ -1,0 +1,11 @@
+# BCCD dataset configuration for YOLO training
+
+train: C:/Users/pmoha/OneDrive/Desktop/Object Detection Web App/BCCD_Dataset/train_images/
+val: C:/Users/pmoha/OneDrive/Desktop/Object Detection Web App/BCCD_Dataset/val_images/
+test: C:/Users/pmoha/OneDrive/Desktop/Object Detection Web App/BCCD_Dataset/test_images/
+
+# Define the class names
+
+nc: 3  # Number of classes (RBC, WBC, Platelets)
+names: ['RBC', 'WBC', 'Platelets']  # Class names
+
