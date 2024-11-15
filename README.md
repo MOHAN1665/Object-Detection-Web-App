@@ -33,28 +33,28 @@ pip install -r requirements.txt
 # Installation
 ## Step 1: Clone the Repository
 ```bash
-  git clone https://github.com/MOHAN1665/Object-Detection-Web-App.git
-  cd Object-Detection-Web-App
+git clone https://github.com/MOHAN1665/Object-Detection-Web-App.git
+cd Object-Detection-Web-App
 ```
 
 ## Step 2: Install Dependencies
 Create and activate a virtual environment, then install the required Python packages:
 ## Create virtual environment
 ```
-    python -m venv env
+python -m venv env
 ```
 ## Activate the environment
 ### On Windows
 ```
-    env\Scripts\activate
+env\Scripts\activate
 ```
 ### On MacOS/Linux
 ```
-    source env/bin/activate
+source env/bin/activate
 ```
 ## Install dependencies
 ```
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Step 3: Set YOLOv5 Weights
@@ -67,7 +67,7 @@ To start the app, use the following command:
 To start the app, use the following command:
 
 ```
-    streamlit run app.py
+streamlit run app.py
 ```
 This will open the app in your default web browser.
 
